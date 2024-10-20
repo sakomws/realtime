@@ -1,5 +1,5 @@
 outspeed[silero]>=0.1.151
-cartesia
-ffmpeg-python
-python-dotenv
-exa-py
+cartesia==1.0.14
+ffmpeg-python==0.2.0
+python-dotenv==1.0.1
+exa-py==1.4.0
